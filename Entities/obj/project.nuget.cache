@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wTEqMQkYLajnCsCzD/FsP4T+xiYgLgjgS+BBJkyVVIlV9PpuwOVvv0gwJQSSVeADSiPY1CAqG62IwRu5XGzvzQ==",
+  "success": true,
+  "projectFilePath": "G:\\Project\\c# project\\GitHub\\LayeredArchitecture\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
